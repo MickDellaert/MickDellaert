@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Mick, an experienced graphic designer and dtp-operator currently on a journey of becoming a web developer.
+#### Here you can follow the steps I am taking on this exciting new path. 
 
 <!--
 **MickDellaert/MickDellaert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
