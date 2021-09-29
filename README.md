@@ -1,5 +1,5 @@
-<h2> Hi there 👋, I'm Mick, an experienced graphic designer and dtp-operator currently on a journey of becoming a web developer. <h2>
-<h3> Here you can follow the steps I am taking on this exciting new path. </h3>
+<h2> Hi there 👋, I'm Mick, an experienced graphic designer and dtp-operator currently on a journey of becoming a web developer. </h2>
+<h3> Here you can follow the steps I am taking on this exciting new path. </3>
 
 ---
 
