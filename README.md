@@ -1,9 +1,7 @@
 ![Banner](assets/MD_banner_github-v2.jpg)
 
 <h2> Hi there 👋, I'm Mick, an experienced graphic designer and dtp-operator currently on a journey of becoming a web developer. </h2>
-<h3> Follow along with me here on this fantastic voyage. </h3>
 
----
 
 - 🔭 I’m currently learning Wordpress
 - 🌱 I’m currently learning Next.js
