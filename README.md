@@ -3,6 +3,7 @@
 <h2> Hi there 👋, I'm Mick, an experienced graphic designer and dtp-operator currently on a journey of becoming a web developer. </h2>
 
 
+
 - 🔭 I’m currently learning Wordpress
 - 🌱 I’m currently learning Next.js
 - 👯 I’m currently looking for new opportunities
