@@ -6,7 +6,7 @@
 
 - 🛁 I’m currently learning headless CMS with Strapi and "vanilla" Wordpress
 - 💾 I’m currently learning Next.js
-- 👯 I’m currently looking for new opportunities
+- 📡 I’m currently looking for new opportunities
 - 📫 How to reach me: mickdellaert@gmail.com
 
 ---
