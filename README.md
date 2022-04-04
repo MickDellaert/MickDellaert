@@ -1,13 +1,13 @@
 ![Banner](assets/MD_banner_github-v2.jpg)
 
-<h2> Hi there 👋, I'm Mick, an experienced graphic designer and dtp-operator currently on a journey of becoming a web developer. </h2>
+<h2> Hi there 👋, I'm Mick, an experienced graphic designer and dtp-operator on a journey of becoming a web developer. </h2>
 
 
 
-- 🛁 I’m currently learning headless CMS with Strapi and "vanilla" Wordpress
-- 💾 I’m currently learning Next.js
-- 📡 I’m currently looking for new opportunities
-- 📫 How to reach me: mickdellaert@gmail.com
+- 🛁 Learning headless CMS with Strapi and getting better at "vanilla" Wordpress
+- 💾 Figuring out Next.js
+- 📡 Looking for new opportunities
+- 📫 You can reach me via mickdellaert@gmail.com
 
 ---
 
